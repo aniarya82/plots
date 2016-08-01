@@ -1,0 +1,689 @@
+{"querydb":[{"name":"/Users/hitenchowdhary/Documents/BLAST/query.fa","title":"Protein_1","type":"protein","nsequences":"3","ncharacters":"1008","updated_on":"May 4, 2016  2:45 PM\n","id":"eff339b40c50708af1a056137a17dfe5"}],"program":"blastp","program_version":"BLASTP 2.2.31+","params":{"e value":"10","matrix":"BLOSUM62","gap-open":"11","gap-extend":"1","filter":"F"},"stats":{"nsequences":"3","ncharacters":"1008","hsp_length":"41","search_space":"547815","kappa":"0.041","labmda":"0.267","entropy":"0.14"},"queries":[{"number":1,"id":"SI2.2.0_02651","title":"","length":660,"hits":[{"number":1,"id":"SI2.2.0_02651","accession":"SI2.2.0_02651","title":"","length":660,"evalue":0.0,"score":1374.38,"qcovs":100,"sciname":"-","hsps":[{"number":1,"bit_score":1374.38,"score":3556,"evalue":0.0,"qstart":1,"qend":660,"sstart":1,"send":660,"qframe":0,"sframe":0,"identity":660,"positives":660,"gaps":0,"length":660,"qcovhsp":100,"qseq":"ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD","sseq":"ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD","midline":"ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD","pp":"Query     1  ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR  60\n             ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR\nSubject   1  ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR  60\n\nQuery    61  KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE  120\n             KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE\nSubject  61  KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE  120\n\nQuery   121  WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN  180\n             WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN\nSubject 121  WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN  180\n\nQuery   181  KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL  240\n             KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL\nSubject 181  KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL  240\n\nQuery   241  TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN  300\n             TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN\nSubject 241  TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN  300\n\nQuery   301  PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT  360\n             PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT\nSubject 301  PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT  360\n\nQuery   361  IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE  420\n             IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE\nSubject 361  IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE  420\n\nQuery   421  TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA  480\n             TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA\nSubject 421  TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA  480\n\nQuery   481  RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE  540\n             RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE\nSubject 481  RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE  540\n\nQuery   541  LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC  600\n             LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC\nSubject 541  LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC  600\n\nQuery   601  LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD  660\n             LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD\nSubject 601  LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD  660\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]},{"number":2,"id":"SI2.2.0_06285","accession":"SI2.2.0_06285","title":"","length":197,"evalue":4.89713,"score":16.5494,"qcovs":3,"sciname":"-","hsps":[{"number":1,"bit_score":16.5494,"score":31,"evalue":4.89713,"qstart":238,"qend":257,"sstart":80,"send":100,"qframe":0,"sframe":0,"identity":8,"positives":10,"gaps":1,"length":21,"qcovhsp":3,"qseq":"PPLTAFPIGRWMC-PNHPNHF","sseq":"PPEIIQPLQKVNCVQNHNAHF","midline":"PP    P+ +  C  NH  HF","pp":"Query   238  PPLTAFPIGRWMC-PNHPNHF  257\n             PP    P+ +  C  NH  HF\nSubject  80  PPEIIQPLQKVNCVQNHNAHF  100\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]}]},{"number":2,"id":"SI2.2.0_06285","title":"","length":197,"hits":[{"number":1,"id":"SI2.2.0_06285","accession":"SI2.2.0_06285","title":"","length":197,"evalue":2.28656e-149,"score":406.371,"qcovs":100,"sciname":"-","hsps":[{"number":1,"bit_score":406.371,"score":1043,"evalue":2.28656e-149,"qstart":1,"qend":197,"sstart":1,"send":197,"qframe":0,"sframe":0,"identity":197,"positives":197,"gaps":0,"length":197,"qcovhsp":100,"qseq":"MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK","sseq":"MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK","midline":"MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK","pp":"Query     1  MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL  60\n             MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL\nSubject   1  MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL  60\n\nQuery    61  SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE  120\n             SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE\nSubject  61  SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE  120\n\nQuery   121  IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP  180\n             IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP\nSubject 121  IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP  180\n\nQuery   181  RFRDTAFFDKGVNVVIK  197\n             RFRDTAFFDKGVNVVIK\nSubject 181  RFRDTAFFDKGVNVVIK  197\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]},{"number":2,"id":"SI2.2.0_02651","accession":"SI2.2.0_02651","title":"","length":660,"evalue":1.46172,"score":46.9518,"qcovs":29,"sciname":"-","hsps":[{"number":1,"bit_score":16.5494,"score":31,"evalue":1.46172,"qstart":80,"qend":100,"sstart":238,"send":257,"qframe":0,"sframe":0,"identity":8,"positives":10,"gaps":1,"length":21,"qcovhsp":11,"qseq":"PPEIIQPLQKVNCVQNHNAHF","sseq":"PPLTAFPIGRWMC-PNHPNHF","midline":"PP    P+ +  C  NH  HF","pp":"Query    80  PPEIIQPLQKVNCVQNHNAHF  100\n             PP    P+ +  C  NH  HF\nSubject 238  PPLTAFPIGRWMC-PNHPNHF  257\n"},{"number":2,"bit_score":15.3938,"score":28,"evalue":3.54848,"qstart":89,"qend":104,"sstart":367,"send":382,"qframe":0,"sframe":0,"identity":7,"positives":9,"gaps":0,"length":16,"qcovhsp":8,"qseq":"KVNCVQNHNAHFHCKI","sseq":"KDNCVENKKIEENDKI","midline":"K NCV+N     + KI","pp":"Query    89  KVNCVQNHNAHFHCKI  104\n             K NCV+N     + KI\nSubject 367  KDNCVENKKIEENDKI  382\n"},{"number":3,"bit_score":15.0086,"score":27,"evalue":5.45683,"qstart":162,"qend":193,"sstart":478,"send":509,"qframe":0,"sframe":0,"identity":13,"positives":15,"gaps":4,"length":34,"qcovhsp":16,"qseq":"KSTKAELFIKTPPKLNVPPRF--RDTAFFDKGVN","sseq":"RRARAALF-SLSPKPN-PPAFMTRRTFVIGNGPN","midline":"+  +A LF    PK N PP F  R T     G N","pp":"Query   162  KSTKAELFIKTPPKLNVPPRF--RDTAFFDKGVN  193\n             +  +A LF    PK N PP F  R T     G N\nSubject 478  RRARAALF-SLSPKPN-PPAFMTRRTFVIGNGPN  509\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]},{"number":3,"id":"SI2.2.0_80227","accession":"SI2.2.0_80227","title":"","length":151,"evalue":3.69116,"score":15.3938,"qcovs":11,"sciname":"-","hsps":[{"number":1,"bit_score":15.3938,"score":28,"evalue":3.69116,"qstart":130,"qend":151,"sstart":83,"send":113,"qframe":0,"sframe":0,"identity":12,"positives":14,"gaps":13,"length":33,"qcovhsp":11,"qseq":"YSEGDTHNLIIHDV-----------FGEDADEY","sseq":"YVAGD--NLTIADLALVASVTTALAFGFDLEEY","midline":"Y  GD  NL I D+           FG D +EY","pp":"Query   130  YSEGDTHNLIIHDV-----------FGEDADEY  151\n             Y  GD  NL I D+           FG D +EY\nSubject  83  YVAGD--NLTIADLALVASVTTALAFGFDLEEY  113\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]}]},{"number":3,"id":"SI2.2.0_80227","title":"","length":151,"hits":[{"number":1,"id":"SI2.2.0_80227","accession":"SI2.2.0_80227","title":"","length":151,"evalue":3.4886e-113,"score":310.842,"qcovs":100,"sciname":"-","hsps":[{"number":1,"bit_score":310.842,"score":795,"evalue":3.4886e-113,"qstart":1,"qend":151,"sstart":1,"send":151,"qframe":0,"sframe":0,"identity":151,"positives":151,"gaps":0,"length":151,"qcovhsp":100,"qseq":"SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN","sseq":"SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN","midline":"SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN","pp":"Query     1  SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD  60\n             SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD\nSubject   1  SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD  60\n\nQuery    61  PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL  120\n             PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL\nSubject  61  PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL  120\n\nQuery   121  ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN  151\n             ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN\nSubject 121  ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN  151\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]},{"number":2,"id":"SI2.2.0_06285","accession":"SI2.2.0_06285","title":"","length":197,"evalue":2.82927,"score":15.3938,"qcovs":21,"sciname":"-","hsps":[{"number":1,"bit_score":15.3938,"score":28,"evalue":2.82927,"qstart":83,"qend":113,"sstart":130,"send":151,"qframe":0,"sframe":0,"identity":12,"positives":14,"gaps":13,"length":33,"qcovhsp":21,"qseq":"YVAGD--NLTIADLALVASVTTALAFGFDLEEY","sseq":"YSEGDTHNLIIHDV-----------FGEDADEY","midline":"Y  GD  NL I D+           FG D +EY","pp":"Query    83  YVAGD--NLTIADLALVASVTTALAFGFDLEEY  113\n             Y  GD  NL I D+           FG D +EY\nSubject 130  YSEGDTHNLIIHDV-----------FGEDADEY  151\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]},{"number":3,"id":"SI2.2.0_02651","accession":"SI2.2.0_02651","title":"","length":660,"evalue":6.77524,"score":28.4764,"qcovs":21,"sciname":"-","hsps":[{"number":1,"bit_score":14.2382,"score":25,"evalue":6.77524,"qstart":82,"qend":86,"sstart":183,"send":187,"qframe":0,"sframe":0,"identity":4,"positives":5,"gaps":0,"length":5,"qcovhsp":3,"qseq":"DYVAG","sseq":"DYVSG","midline":"DYV+G","pp":"Query    82  DYVAG  86\n             DYV+G\nSubject 183  DYVSG  187\n"},{"number":2,"bit_score":14.2382,"score":25,"evalue":6.89678,"qstart":110,"qend":136,"sstart":376,"send":399,"qframe":0,"sframe":0,"identity":8,"positives":13,"gaps":3,"length":27,"qcovhsp":18,"qseq":"LEEYKNVSDWLERVQTTTPGYDKANGE","sseq":"IEENDKIRTKREKSDTTT---DEGNDQ","midline":"+EE   +    E+  TTT   D+ N +","pp":"Query   110  LEEYKNVSDWLERVQTTTPGYDKANGE  136\n             +EE   +    E+  TTT   D+ N +\nSubject 376  IEENDKIRTKREKSDTTT---DEGNDQ  399\n"}],"links":[{"order":0,"url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5","title":"Sequence","class":"view-sequence","icon":"fa-eye"},{"order":1,"title":"FASTA","url":"get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta","class":"download","icon":"fa-download"},{"order":2,"title":"Alignment","url":"#","class":"export-alignment","icon":"fa-download"},{"order":2,"title":"PNG","url":"#","class":"export-to-png","icon":"fa-download"},{"order":2,"title":"SVG","url":"#","class":"export-to-svg","icon":"fa-download"}]}]}],"search_id":"35d5bbc4-72f9-4303-85ec-2e8a2b4277ec"}{
+    "params": {
+        "e value": "10",
+        "filter": "F",
+        "gap-extend": "1",
+        "gap-open": "11",
+        "matrix": "BLOSUM62"
+    },
+    "program": "blastp",
+    "program_version": "BLASTP 2.2.31+",
+    "queries": [
+        {
+            "hits": [
+                {
+                    "accession": "SI2.2.0_02651",
+                    "evalue": 0.0,
+                    "hsps": [
+                        {
+                            "bit_score": 1374.38,
+                            "evalue": 0.0,
+                            "gaps": 0,
+                            "identity": 660,
+                            "length": 660,
+                            "midline": "ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD",
+                            "number": 1,
+                            "positives": 660,
+                            "pp": "Query     1  ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR  60\n             ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR\nSubject   1  ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKAR  60\n\nQuery    61  KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE  120\n             KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE\nSubject  61  KEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGE  120\n\nQuery   121  WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN  180\n             WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN\nSubject 121  WLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSN  180\n\nQuery   181  KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL  240\n             KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL\nSubject 181  KADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPL  240\n\nQuery   241  TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN  300\n             TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN\nSubject 241  TAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAAN  300\n\nQuery   301  PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT  360\n             PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT\nSubject 301  PLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKT  360\n\nQuery   361  IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE  420\n             IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE\nSubject 361  IEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATE  420\n\nQuery   421  TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA  480\n             TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA\nSubject 421  TNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRA  480\n\nQuery   481  RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE  540\n             RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE\nSubject 481  RAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYE  540\n\nQuery   541  LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC  600\n             LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC\nSubject 541  LLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETAC  600\n\nQuery   601  LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD  660\n             LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD\nSubject 601  LEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD  660\n",
+                            "qcovhsp": 100,
+                            "qend": 660,
+                            "qframe": 0,
+                            "qseq": "ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD",
+                            "qstart": 1,
+                            "score": 3556,
+                            "send": 660,
+                            "sframe": 0,
+                            "sseq": "ASTNARACRDGNRWVFSLSXAALSFADFDSRSPCMSRSTLRCCAASAPPISDDSKTAKARKEKEEKKHPYFKRRGRGHNRDFCDACKDGGELICCDKCPASYHLQCHYPAVDPTDIPNGEWLCYACRCASKREELLDEKGNEKKKRSALEVLTLAAALVNPREFELPKELQLPIMFPGSNKADYVSGRRVGKSHCLDSNLMVPLPARLCFECGRSCRKAPLIACDYCPLYFHQDCLDPPLTAFPIGRWMCPNHPNHFIDQNLLTSCRVTERIKLWDKYANQQIDQHAVKLDFLRKARAANPLFRTKVRLEGRPRVKVPCSVKFHYENPLHLDPVHSYQDSLIWPVRNTTDEEEHHTNEKTIEKSDNKDNCVENKKIEENDKIRTKREKSDTTTDEGNDQQKVLDVSEHMNKKIESETATETNSNECNNFEFHTSNYGNKIKEGIQLLERPVLEALAQQRLEQILNPDEEDYKAINCHRRARAALFSLSPKPNPPAFMTRRTFVIGNGPNCDLVLSNYGSCGFTSSKHAVIFFDEVTRHYELLNYSEYGTVVDHVLYSCDCTRVLNEQIKEEKTDKTIYITKEEETSDIIKAILHKEETACLEEYAHTDDKVLCKCNIKRDTRINKHPEEGWEGSAIISHGSTISFGCLMFVFNTLDMYVD",
+                            "sstart": 1
+                        }
+                    ],
+                    "id": "SI2.2.0_02651",
+                    "length": 660,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 1,
+                    "qcovs": 100,
+                    "sciname": "-",
+                    "score": 1374.38,
+                    "title": ""
+                },
+                {
+                    "accession": "SI2.2.0_06285",
+                    "evalue": 4.89713,
+                    "hsps": [
+                        {
+                            "bit_score": 16.5494,
+                            "evalue": 4.89713,
+                            "gaps": 1,
+                            "identity": 8,
+                            "length": 21,
+                            "midline": "PP    P+ +  C  NH  HF",
+                            "number": 1,
+                            "positives": 10,
+                            "pp": "Query   238  PPLTAFPIGRWMC-PNHPNHF  257\n             PP    P+ +  C  NH  HF\nSubject  80  PPEIIQPLQKVNCVQNHNAHF  100\n",
+                            "qcovhsp": 3,
+                            "qend": 257,
+                            "qframe": 0,
+                            "qseq": "PPLTAFPIGRWMC-PNHPNHF",
+                            "qstart": 238,
+                            "score": 31,
+                            "send": 100,
+                            "sframe": 0,
+                            "sseq": "PPEIIQPLQKVNCVQNHNAHF",
+                            "sstart": 80
+                        }
+                    ],
+                    "id": "SI2.2.0_06285",
+                    "length": 197,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 2,
+                    "qcovs": 3,
+                    "sciname": "-",
+                    "score": 16.5494,
+                    "title": ""
+                }
+            ],
+            "id": "SI2.2.0_02651",
+            "length": 660,
+            "number": 1,
+            "title": ""
+        },
+        {
+            "hits": [
+                {
+                    "accession": "SI2.2.0_06285",
+                    "evalue": 2.28656e-149,
+                    "hsps": [
+                        {
+                            "bit_score": 406.371,
+                            "evalue": 2.28656e-149,
+                            "gaps": 0,
+                            "identity": 197,
+                            "length": 197,
+                            "midline": "MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK",
+                            "number": 1,
+                            "positives": 197,
+                            "pp": "Query     1  MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL  60\n             MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL\nSubject   1  MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGL  60\n\nQuery    61  SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE  120\n             SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE\nSubject  61  SPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGARE  120\n\nQuery   121  IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP  180\n             IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP\nSubject 121  IVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPP  180\n\nQuery   181  RFRDTAFFDKGVNVVIK  197\n             RFRDTAFFDKGVNVVIK\nSubject 181  RFRDTAFFDKGVNVVIK  197\n",
+                            "qcovhsp": 100,
+                            "qend": 197,
+                            "qframe": 0,
+                            "qseq": "MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK",
+                            "qstart": 1,
+                            "score": 1043,
+                            "send": 197,
+                            "sframe": 0,
+                            "sseq": "MAANDNGMGPPLEGTNPIKAKAPFDPPGPPGTPKVIEVGGDFVNLSQYEFRVFAQNVAGLSPESQASTSVKIVDPQAAKPPEIIQPLQKVNCVQNHNAHFHCKIIGTPRPNITWFKGAREIVSGSRYNIYSEGDTHNLIIHDVFGEDADEYFCRAANKCGVKSTKAELFIKTPPKLNVPPRFRDTAFFDKGVNVVIK",
+                            "sstart": 1
+                        }
+                    ],
+                    "id": "SI2.2.0_06285",
+                    "length": 197,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 1,
+                    "qcovs": 100,
+                    "sciname": "-",
+                    "score": 406.371,
+                    "title": ""
+                },
+                {
+                    "accession": "SI2.2.0_02651",
+                    "evalue": 1.46172,
+                    "hsps": [
+                        {
+                            "bit_score": 16.5494,
+                            "evalue": 1.46172,
+                            "gaps": 1,
+                            "identity": 8,
+                            "length": 21,
+                            "midline": "PP    P+ +  C  NH  HF",
+                            "number": 1,
+                            "positives": 10,
+                            "pp": "Query    80  PPEIIQPLQKVNCVQNHNAHF  100\n             PP    P+ +  C  NH  HF\nSubject 238  PPLTAFPIGRWMC-PNHPNHF  257\n",
+                            "qcovhsp": 11,
+                            "qend": 100,
+                            "qframe": 0,
+                            "qseq": "PPEIIQPLQKVNCVQNHNAHF",
+                            "qstart": 80,
+                            "score": 31,
+                            "send": 257,
+                            "sframe": 0,
+                            "sseq": "PPLTAFPIGRWMC-PNHPNHF",
+                            "sstart": 238
+                        },
+                        {
+                            "bit_score": 15.3938,
+                            "evalue": 3.54848,
+                            "gaps": 0,
+                            "identity": 7,
+                            "length": 16,
+                            "midline": "K NCV+N     + KI",
+                            "number": 2,
+                            "positives": 9,
+                            "pp": "Query    89  KVNCVQNHNAHFHCKI  104\n             K NCV+N     + KI\nSubject 367  KDNCVENKKIEENDKI  382\n",
+                            "qcovhsp": 8,
+                            "qend": 104,
+                            "qframe": 0,
+                            "qseq": "KVNCVQNHNAHFHCKI",
+                            "qstart": 89,
+                            "score": 28,
+                            "send": 382,
+                            "sframe": 0,
+                            "sseq": "KDNCVENKKIEENDKI",
+                            "sstart": 367
+                        },
+                        {
+                            "bit_score": 15.0086,
+                            "evalue": 5.45683,
+                            "gaps": 4,
+                            "identity": 13,
+                            "length": 34,
+                            "midline": "+  +A LF    PK N PP F  R T     G N",
+                            "number": 3,
+                            "positives": 15,
+                            "pp": "Query   162  KSTKAELFIKTPPKLNVPPRF--RDTAFFDKGVN  193\n             +  +A LF    PK N PP F  R T     G N\nSubject 478  RRARAALF-SLSPKPN-PPAFMTRRTFVIGNGPN  509\n",
+                            "qcovhsp": 16,
+                            "qend": 193,
+                            "qframe": 0,
+                            "qseq": "KSTKAELFIKTPPKLNVPPRF--RDTAFFDKGVN",
+                            "qstart": 162,
+                            "score": 27,
+                            "send": 509,
+                            "sframe": 0,
+                            "sseq": "RRARAALF-SLSPKPN-PPAFMTRRTFVIGNGPN",
+                            "sstart": 478
+                        }
+                    ],
+                    "id": "SI2.2.0_02651",
+                    "length": 660,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 2,
+                    "qcovs": 29,
+                    "sciname": "-",
+                    "score": 46.9518,
+                    "title": ""
+                },
+                {
+                    "accession": "SI2.2.0_80227",
+                    "evalue": 3.69116,
+                    "hsps": [
+                        {
+                            "bit_score": 15.3938,
+                            "evalue": 3.69116,
+                            "gaps": 13,
+                            "identity": 12,
+                            "length": 33,
+                            "midline": "Y  GD  NL I D+           FG D +EY",
+                            "number": 1,
+                            "positives": 14,
+                            "pp": "Query   130  YSEGDTHNLIIHDV-----------FGEDADEY  151\n             Y  GD  NL I D+           FG D +EY\nSubject  83  YVAGD--NLTIADLALVASVTTALAFGFDLEEY  113\n",
+                            "qcovhsp": 11,
+                            "qend": 151,
+                            "qframe": 0,
+                            "qseq": "YSEGDTHNLIIHDV-----------FGEDADEY",
+                            "qstart": 130,
+                            "score": 28,
+                            "send": 113,
+                            "sframe": 0,
+                            "sseq": "YVAGD--NLTIADLALVASVTTALAFGFDLEEY",
+                            "sstart": 83
+                        }
+                    ],
+                    "id": "SI2.2.0_80227",
+                    "length": 151,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 3,
+                    "qcovs": 11,
+                    "sciname": "-",
+                    "score": 15.3938,
+                    "title": ""
+                }
+            ],
+            "id": "SI2.2.0_06285",
+            "length": 197,
+            "number": 2,
+            "title": ""
+        },
+        {
+            "hits": [
+                {
+                    "accession": "SI2.2.0_80227",
+                    "evalue": 3.4886e-113,
+                    "hsps": [
+                        {
+                            "bit_score": 310.842,
+                            "evalue": 3.4886e-113,
+                            "gaps": 0,
+                            "identity": 151,
+                            "length": 151,
+                            "midline": "SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN",
+                            "number": 1,
+                            "positives": 151,
+                            "pp": "Query     1  SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD  60\n             SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD\nSubject   1  SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYD  60\n\nQuery    61  PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL  120\n             PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL\nSubject  61  PAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWL  120\n\nQuery   121  ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN  151\n             ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN\nSubject 121  ERVQTTTPGYDKANGEPVEMFKQFVQSVQGN  151\n",
+                            "qcovhsp": 100,
+                            "qend": 151,
+                            "qframe": 0,
+                            "qseq": "SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN",
+                            "qstart": 1,
+                            "score": 795,
+                            "send": 151,
+                            "sframe": 0,
+                            "sseq": "SRAIMGYMVDQYGPDDTLYPRNPEARALVNQRLYFDYGNMFASVFGYYMTVFRKEADTYDPAEYEKLTNAFQMLENFLEGQDYVAGDNLTIADLALVASVTTALAFGFDLEEYKNVSDWLERVQTTTPGYDKANGEPVEMFKQFVQSVQGN",
+                            "sstart": 1
+                        }
+                    ],
+                    "id": "SI2.2.0_80227",
+                    "length": 151,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_80227&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 1,
+                    "qcovs": 100,
+                    "sciname": "-",
+                    "score": 310.842,
+                    "title": ""
+                },
+                {
+                    "accession": "SI2.2.0_06285",
+                    "evalue": 2.82927,
+                    "hsps": [
+                        {
+                            "bit_score": 15.3938,
+                            "evalue": 2.82927,
+                            "gaps": 13,
+                            "identity": 12,
+                            "length": 33,
+                            "midline": "Y  GD  NL I D+           FG D +EY",
+                            "number": 1,
+                            "positives": 14,
+                            "pp": "Query    83  YVAGD--NLTIADLALVASVTTALAFGFDLEEY  113\n             Y  GD  NL I D+           FG D +EY\nSubject 130  YSEGDTHNLIIHDV-----------FGEDADEY  151\n",
+                            "qcovhsp": 21,
+                            "qend": 113,
+                            "qframe": 0,
+                            "qseq": "YVAGD--NLTIADLALVASVTTALAFGFDLEEY",
+                            "qstart": 83,
+                            "score": 28,
+                            "send": 151,
+                            "sframe": 0,
+                            "sseq": "YSEGDTHNLIIHDV-----------FGEDADEY",
+                            "sstart": 130
+                        }
+                    ],
+                    "id": "SI2.2.0_06285",
+                    "length": 197,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_06285&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 2,
+                    "qcovs": 21,
+                    "sciname": "-",
+                    "score": 15.3938,
+                    "title": ""
+                },
+                {
+                    "accession": "SI2.2.0_02651",
+                    "evalue": 6.77524,
+                    "hsps": [
+                        {
+                            "bit_score": 14.2382,
+                            "evalue": 6.77524,
+                            "gaps": 0,
+                            "identity": 4,
+                            "length": 5,
+                            "midline": "DYV+G",
+                            "number": 1,
+                            "positives": 5,
+                            "pp": "Query    82  DYVAG  86\n             DYV+G\nSubject 183  DYVSG  187\n",
+                            "qcovhsp": 3,
+                            "qend": 86,
+                            "qframe": 0,
+                            "qseq": "DYVAG",
+                            "qstart": 82,
+                            "score": 25,
+                            "send": 187,
+                            "sframe": 0,
+                            "sseq": "DYVSG",
+                            "sstart": 183
+                        },
+                        {
+                            "bit_score": 14.2382,
+                            "evalue": 6.89678,
+                            "gaps": 3,
+                            "identity": 8,
+                            "length": 27,
+                            "midline": "+EE   +    E+  TTT   D+ N +",
+                            "number": 2,
+                            "positives": 13,
+                            "pp": "Query   110  LEEYKNVSDWLERVQTTTPGYDKANGE  136\n             +EE   +    E+  TTT   D+ N +\nSubject 376  IEENDKIRTKREKSDTTT---DEGNDQ  399\n",
+                            "qcovhsp": 18,
+                            "qend": 136,
+                            "qframe": 0,
+                            "qseq": "LEEYKNVSDWLERVQTTTPGYDKANGE",
+                            "qstart": 110,
+                            "score": 25,
+                            "send": 399,
+                            "sframe": 0,
+                            "sseq": "IEENDKIRTKREKSDTTT---DEGNDQ",
+                            "sstart": 376
+                        }
+                    ],
+                    "id": "SI2.2.0_02651",
+                    "length": 660,
+                    "links": [
+                        {
+                            "class": "view-sequence",
+                            "icon": "fa-eye",
+                            "order": 0,
+                            "title": "Sequence",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5"
+                        },
+                        {
+                            "class": "download",
+                            "icon": "fa-download",
+                            "order": 1,
+                            "title": "FASTA",
+                            "url": "get_sequence/?sequence_ids=SI2.2.0_02651&database_ids=eff339b40c50708af1a056137a17dfe5&download=fasta"
+                        },
+                        {
+                            "class": "export-alignment",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "Alignment",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-png",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "PNG",
+                            "url": "#"
+                        },
+                        {
+                            "class": "export-to-svg",
+                            "icon": "fa-download",
+                            "order": 2,
+                            "title": "SVG",
+                            "url": "#"
+                        }
+                    ],
+                    "number": 3,
+                    "qcovs": 21,
+                    "sciname": "-",
+                    "score": 28.4764,
+                    "title": ""
+                }
+            ],
+            "id": "SI2.2.0_80227",
+            "length": 151,
+            "number": 3,
+            "title": ""
+        }
+    ],
+    "querydb": [
+        {
+            "id": "eff339b40c50708af1a056137a17dfe5",
+            "name": "/Users/hitenchowdhary/Documents/BLAST/query.fa",
+            "ncharacters": "1008",
+            "nsequences": "3",
+            "title": "Protein_1",
+            "type": "protein",
+            "updated_on": "May 4, 2016  2:45 PM\n"
+        }
+    ],
+    "search_id": "35d5bbc4-72f9-4303-85ec-2e8a2b4277ec",
+    "stats": {
+        "entropy": "0.14",
+        "hsp_length": "41",
+        "kappa": "0.041",
+        "labmda": "0.267",
+        "ncharacters": "1008",
+        "nsequences": "3",
+        "search_space": "547815"
+    }
+}
