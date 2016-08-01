@@ -29,14 +29,16 @@ instance.layout(
             radialOffset: 12
         },
         ticks: {
-            display: true
+            display: true,
+            labelDenominator: 10,
+            labelSpacing: 5
         }
     },
     layout_data
 );
 
 var chords_data = [
-    ['hit1', 1, 12,'query2', 18, 20, 0],
+    ['hit1', 1, 12,'query2', 22, 18 , 0],
     ['hit2', 20, 28,'query1', 1, 13, 2],
     ['hit2', 20, 28,'query2', 1, 13, 3],
     ['hit1', 25, 28,'hit3', 10, 13, 4],
