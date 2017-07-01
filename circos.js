@@ -39,7 +39,7 @@ instance.layout(
 
 var chords_data = [
     ['hit1', 1, 12,'query2', 22, 18 , 0],
-    ['hit2', 20, 28,'query1', 1, 13, 2],
+    ['hit3', 24, 28,'query1', 1, 7, 2],
     ['hit2', 20, 28,'query2', 1, 13, 3],
     ['hit1', 25, 28,'hit3', 10, 13, 4],
     ['query2', 15, 18,'hit3', 20, 23, 5],
